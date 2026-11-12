@@ -7,7 +7,7 @@
 
 ### 回国线路特色
 
-EdNovas （[这里进入官网](https://ednovas.org/#/register?code=SQfyNQXH)) 提供面向海外用户的专属回国套餐，支持通过亚太、欧洲、北美等地区中转访问中国大陆网络资源。
+（[EdNovas](https://github.com/jichang2026/jiasuqi-kuaifan-ednovas)) 提供面向海外用户的专属回国套餐，支持通过亚太、欧洲、北美等地区中转访问中国大陆网络资源。
 
 可访问：
 
